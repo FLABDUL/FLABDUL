@@ -23,7 +23,7 @@
 
 ## 💡 What I Bring
 
-- ✅ 5+ years' experience in **enterprise engineering**, across trading and asset management
+- ✅ 4+ years' experience in **enterprise engineering**, across trading and asset management
 - 🌐 Full-stack capabilities: **Java (Spring Boot)**, **React/TypeScript**, **SQL**, and **AWS**
 - 🐍 Deep interest in **Python** — from **data pipelines** to **research platforms**
 - ⚙️ Focused on **clean architecture**, **cloud-native solutions**, and **developer experience**
