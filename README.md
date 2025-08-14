@@ -36,9 +36,9 @@
 |------------|-------------|------|
 | [beng-thesis](https://github.com/FLABDUL/beng-thesis) | Academic research using customized MASBCPP simulation | Python, Jupyter, C++ |
 | [personal-blog](https://github.com/FLABDUL/personal-blog) | Custom blog platform with SSR | JavaScript, Next.js |
-| [IntroToPython](https://github.com/FLABDUL/IntroToPython) | Learning Python fundamentals and applying data use cases | Python |
 | [algorithms](https://github.com/FLABDUL/algorithms) | DSA practice and system design exploration | Java |
-| [leet-code](https://github.com/FLABDUL/leet-code) | LeetCode solutions and interview prep | Python, Java |
+| [strava-dashboard](https://github.com/FLABDUL/strava-dashboard) | Personal Strava dashboard with React + Node.js, integrates with Strava API to visualize running, cycling, and swimming | React, Node.js, Chart.js, Docker |
+| [dependency-agent](https://github.com/jathoms/dependency-agent) | Hackathon project: smart assistant to resolve Maven dependency conflicts with changelog-aware suggestions | Java, Maven, Python, OpenAI API |
 
 ---
 
